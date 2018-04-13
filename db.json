@@ -1,0 +1,103 @@
+{
+  "NewsList":  {
+    "title": "最新消息",
+    "lists":
+      [{"title": "数据统计","url": ""},
+      {"title": "数据预测","url": ""},
+      {"title": "流量分析","url": ""},
+      {"title": "广告发布","url": ""}]
+  },
+  "ProductList":{
+    "pc":{
+      "title":"PC产品",
+      "list":[
+        {
+          "title":"数据统计",
+          "url":""
+        },
+        {
+          "title":"数据预测",
+          "url":""
+        },
+        {
+          "title":"数据分析",
+          "url":""
+        },
+        {
+          "title":"流量分析",
+          "url":""
+        }
+      ]
+    },
+    "app":{
+      "title":"应用类",
+      "list":[
+        {
+          "title":"91助手",
+          "url":""
+        },
+        {
+          "title":"产品助手",
+          "url":""
+        },
+        {
+          "title":"智能地图",
+          "url":""
+        },
+        {
+          "title":"团队语音",
+          "url":""
+        }
+      ]
+    }
+  },
+  "Modular":[
+    {
+      "title":"开放产品",
+      "ImgSrc":"../../static/images/1.png",
+      "intro":"开放产品是一款开放产品"
+    },
+    {
+      "title":"品牌营销",
+      "ImgSrc":"../../static/images/2.png",
+      "intro":"品牌营销帮助你的产品更好地找到定位",
+
+    },
+    {
+      "title":"使命必达",
+      "ImgSrc":"../../static/images/3.png",
+      "intro":"使命必达快速迭代永远保持最前端的速度"
+    },
+    {
+      "title":"勇攀高峰",
+      "ImgSrc":"../../static/images/4.png",
+      "intro":"帮你勇闯高峰，达到事业的顶峰",
+    }
+  ],
+  "CarouselMsg":{
+    "SetData":{
+      "interval":3000,
+      "animation":"fade"
+    },
+    "ImgMsg":
+    [
+      {"src":"../../static/images/slideShow/pic1.jpg"},
+      {"src":"../../static/images/slideShow/pic2.jpg"},
+      {"src":"../../static/images/slideShow/pic3.jpg"},
+      {"src":"../../static/images/slideShow/pic4.jpg"}
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
